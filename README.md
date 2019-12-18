@@ -1,5 +1,6 @@
-# CS224w
-Project repo for Stanford CS224w: Detecting hateful users on Twitter  
+# CS224W
+Project repo for CS224W: Detecting hateful users on Twitter 
+Team: Di Bai, Yipeng He, Wantong Jiang
 
 ## Preprocess data for pytorch geometric (GNN)
 Make sure in the data folder there are users.edges, users_hate_all.content, users_hate_glove.content
